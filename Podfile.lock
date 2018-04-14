@@ -1,0 +1,16 @@
+PODS:
+  - HZLocationConverter (1.0.0)
+
+DEPENDENCIES:
+  - HZLocationConverter
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HZLocationConverter
+
+SPEC CHECKSUMS:
+  HZLocationConverter: 13e524a2ce0124447a1a33a5a885f72b9ce7cd8e
+
+PODFILE CHECKSUM: 334e0d8752e839c9a90f95c39234d026c356369a
+
+COCOAPODS: 1.5.0
